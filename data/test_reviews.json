@@ -1,0 +1,42 @@
+[
+  {
+    "review": "The soundtrack was epic, but the ending sucked",
+    "sentiment": "Mixed"
+  },
+  {
+    "review": "Absolutely brilliant, a must-see!",
+    "sentiment": "Positive"
+  },
+  {
+    "review": "Terrible direction, couldn't stand it",
+    "sentiment": "Negative"
+  },
+  {
+    "review": "Fun plot, decent acting",
+    "sentiment": "Positive"
+  },
+  {
+    "review": "Started strong but fell apart in the third act",
+    "sentiment": "Mixed"
+  },
+  {
+    "review": "Visually stunning but emotionally hollow",
+    "sentiment": "Mixed"
+  },
+  {
+    "review": "A complete waste of potential with a talented cast",
+    "sentiment": "Negative"
+  },
+  {
+    "review": "Heartwarming story with authentic performances",
+    "sentiment": "Positive"
+  },
+  {
+    "review": "Overhyped and underwhelming",
+    "sentiment": "Negative"
+  },
+  {
+    "review": "Thought-provoking themes but uneven pacing",
+    "sentiment": "Mixed"
+  }
+]

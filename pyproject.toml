@@ -1,0 +1,11 @@
+[project]
+name = "dspy-poc"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dspy-ai>=2.0.0",
+    "google-generativeai",
+    "openai>=1.0.0",
+]

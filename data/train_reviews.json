@@ -1,0 +1,62 @@
+[
+  {
+    "review": "This film was a total blast, loved every minute!",
+    "sentiment": "Positive"
+  },
+  {
+    "review": "Awful acting, boring plot",
+    "sentiment": "Negative"
+  },
+  {
+    "review": "Pretty decent, but slow at times",
+    "sentiment": "Positive"
+  },
+  {
+    "review": "Waste of time, terrible script",
+    "sentiment": "Negative"
+  },
+  {
+    "review": "A masterpiece, stunning visuals",
+    "sentiment": "Positive"
+  },
+  {
+    "review": "Confusing mess, hated it",
+    "sentiment": "Negative"
+  },
+  {
+    "review": "Really fun, great cast",
+    "sentiment": "Positive"
+  },
+  {
+    "review": "Dull and predictable",
+    "sentiment": "Negative"
+  },
+  {
+    "review": "Loved the twists, solid film",
+    "sentiment": "Positive"
+  },
+  {
+    "review": "Bad pacing, just awful",
+    "sentiment": "Negative"
+  },
+  {
+    "review": "Incredible performances by the entire cast",
+    "sentiment": "Positive"
+  },
+  {
+    "review": "Poorly written dialogue and weak character development",
+    "sentiment": "Negative"
+  },
+  {
+    "review": "Innovative cinematography and compelling storytelling",
+    "sentiment": "Positive"
+  },
+  {
+    "review": "Disappointing sequel that fails to capture the magic of the original",
+    "sentiment": "Negative"
+  },
+  {
+    "review": "A refreshing take on a classic genre",
+    "sentiment": "Positive"
+  }
+]
